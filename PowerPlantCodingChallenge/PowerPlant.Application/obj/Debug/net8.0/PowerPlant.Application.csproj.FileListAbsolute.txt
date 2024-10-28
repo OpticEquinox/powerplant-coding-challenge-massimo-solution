@@ -1,0 +1,16 @@
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\bin\Debug\net8.0\PowerPlant.Application.deps.json
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\bin\Debug\net8.0\PowerPlant.Application.dll
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\bin\Debug\net8.0\PowerPlant.Application.pdb
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\bin\Debug\net8.0\PowerPlant.Domain.dll
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\bin\Debug\net8.0\PowerPlant.Domain.pdb
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.csproj.AssemblyReference.cache
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.AssemblyInfoInputs.cache
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.AssemblyInfo.cs
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.csproj.CoreCompileInputs.cache
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.sourcelink.json
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPla.C14E8FC8.Up2Date
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.dll
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\refint\PowerPlant.Application.dll
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\PowerPlant.Application.pdb
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Application\obj\Debug\net8.0\ref\PowerPlant.Application.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WlKwmBtqI9w=",
+  "success": true,
+  "projectFilePath": "C:\\Git\\powerplant-coding-challenge-massimo-solution\\PowerPlantCodingChallenge\\PowerPlant.Domain\\PowerPlant.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w105584\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://artifactory.global.ingenico.com/artifactory/api/nuget/v3/virtual-ogone-nuget-library-release."
+    }
+  ]
+}

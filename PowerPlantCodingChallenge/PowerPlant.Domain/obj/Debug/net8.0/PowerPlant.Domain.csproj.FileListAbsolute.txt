@@ -1,0 +1,13 @@
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\bin\Debug\net8.0\PowerPlant.Domain.deps.json
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\bin\Debug\net8.0\PowerPlant.Domain.dll
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\bin\Debug\net8.0\PowerPlant.Domain.pdb
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.csproj.AssemblyReference.cache
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.AssemblyInfoInputs.cache
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.AssemblyInfo.cs
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.csproj.CoreCompileInputs.cache
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.sourcelink.json
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.dll
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\refint\PowerPlant.Domain.dll
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\PowerPlant.Domain.pdb
+C:\Git\powerplant-coding-challenge-massimo-solution\PowerPlantCodingChallenge\PowerPlant.Domain\obj\Debug\net8.0\ref\PowerPlant.Domain.dll
